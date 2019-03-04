@@ -11,6 +11,7 @@ A suite of programs to assist in tabletop rpgs. This includes:
 [***Encounter Generator***](#encounter-generator)  
 [***Combat Manager***](#combat-manager)
 [***Location Generator***](#location-generator)
+[***Credits***](#credits)
 
 ## Character Creator
 This will walk players through creating characters in supported rpgs, and export the character to the [character
@@ -96,5 +97,11 @@ This will allow for quick generation of locations. This will potentially allow f
   > Adjective  
   Type  
   Location in world
- > Thank you, Amos for the suggestion!  
- Everyone else, please send words to fill in each of those things, thank you!
+ > Please send words to fill in each of those things, thank you!
+___
+## Credits
+***Author:*** 
+- Kylan Byrd  
+***Feature Suggestions:***
+- Amos - Suggested the [Location Generator](#location-generator)  
+  >Thank you, Amos, for the suggestion!  
