@@ -10,18 +10,18 @@ A suite of programs to assist in tabletop rpgs. This includes:
 [***Encounter Generator***](#encounter-generator)  
 [***Combat Manager***](#combat-manager)
 
-##Character Creator <a id="character-creator"></a>
+## Character Creator <a id="character-creator"></a>
 This will walk players through creating characters in supported rpgs, and export the character to the [character
 management system](#character-manager).
-#####Supported RPGS   
+##### Supported RPGS   
 - numanera (WIP)
-#####Planned support
+##### Planned support
 - dnd5e
 - pathfinder
 - monster of the week
 - feel free to add requests!
 ___
-##Character Manager
+## Character Manager
 This will manage a player's character throughout play. This includes:
 - health tracking
 - inventory tracking
@@ -29,11 +29,11 @@ This will manage a player's character throughout play. This includes:
 - leveling up
 - status effects
 ___
-##Reference Guide  
+## Reference Guide  
 This will be more or less an encyclopedia for the various systems. It will be broken down into separate RPGS. Followed 
 by relevant categories.
-####RPGs
-- #####Numanera (WIP)
+#### RPGs
+- ##### Numanera (WIP)
   - Characters
     - Types
     - Descriptors
@@ -47,19 +47,19 @@ by relevant categories.
     - Oddities
   - Rules
     - wip
-- #####DND5 (TODO)
-- #####Pathfinder (TODO)
-- #####Monster of the Week (TODO)
+- ##### DND5 (TODO)
+- ##### Pathfinder (TODO)
+- ##### Monster of the Week (TODO)
 ___
-##Item Generator
+## Item Generator
 
 ___
-##NPC Generator
+## NPC Generator
 
 ___
-##Encounter Generator
+## Encounter Generator
 
 ___
-##Combat Manager
+## Combat Manager
 
 ___
