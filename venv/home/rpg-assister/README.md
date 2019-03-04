@@ -4,13 +4,16 @@
 A suite of programs to assist in tabletop rpgs. This includes:  
 [***Character Creator***](#character-creator)  
 [***Character Manager***](#character-manager)  
-[***Party Manager***](#party-manager)
+[***Notes Manager***](#notes-manager)  
+[***Story Helper***](#story-helper)
+[***Party Manager***](#party-manager)  
 [***Reference Guide***](#reference-guide)  
 [***Item Generator***](#item-generator)  
 [***NPC Generator***](#npc-generator)  
 [***Encounter Generator***](#encounter-generator)  
 [***Combat Manager***](#combat-manager)  
 [***Location Generator***](#location-generator)  
+[***Dungeon Generator***](#dungeon-generator)  
 [***Future Plans***](#future-plans)  
 [***Credits***](#credits)  
 
@@ -31,7 +34,17 @@ This will manage a player's character throughout play. This includes:
 - inventory tracking
 - spell tracking
 - leveling up
-- status effects
+- status effects  
+it will also allow rolling a specific skill by clicking on that skill. (or system equivalent functionality.)
+___
+## Notes Manager
+A place to compile notes. For players this will be points of interest they've picked up from the GM, for the GM this 
+should support story planning including tracking character and story arcs.  
+This will also allow for session summaries.
+___
+## Story Helper
+This will generate situationally aware prompts to assist players and gms when they encounter a creativity block for how 
+introduce something, or play a situation. For Numanera, this will double as a weird generator.
 ___
 ## Party Manager  
 This will allow a GM to hold a party of characters. It will be used in the [Encounter Generator](#encounter-generator)
@@ -77,10 +90,13 @@ ___
 This will generate NPC skeletons for the gm on domand when they need one. 
 The skeleton might be broken up into system specifics, I'm not sure as of yet. Planned skeletons currently look like:
 > Name  
-Species  
-Occupation  
-Motivation  
-One word personality type  
+  Species  
+  Occupation  
+  Motivation  
+  One word personality type  
+  Quirk  
+  
+You will also be able to set a custom skeleton to add personal  desired adjectives.
 ___
 ## Encounter Generator
 This will generate beasts and other creatures for a gm to have their players fight. It will interface with the 
@@ -99,6 +115,10 @@ This will allow for quick generation of locations. This will potentially allow f
   Type  
   Location in world
  > Please send words to fill in each of those things, thank you!
+___
+## Dungeon Generator
+I want this functionality, but I'm not sure how to present it yet. Potentially prints out a map for the GM with 
+trap/treasure locations, possibly NPCs too.
 ___
 ## Future Plans
 Once I have this all working locally, I would like to implement some networking features.  
@@ -119,6 +139,19 @@ ___
 ## Credits
 ***Author:*** 
 - Kylan Byrd  
+___
 ***Feature Suggestions:***
-- Amos - Suggested the [Location Generator](#location-generator)  
-  >Thank you, Amos, for the suggestion!  
+- Amos - Suggested the [Location Generator](#location-generator).
+  >Thank you, Amos!  
+- Matt - Suggested the [Dungeon Generator](#dungeon-generator), session summary functionality in the 
+[Notes Manager](#notes-manager), automatic player sorting of skill checks, recently viewed items in the 
+[Reference Guide](@reference-guide) and the [Story Helper](#story-helper).
+  > Thank you, Matt!
+- Andi - Suggested the [Notes Manager](#notes-manager).
+  > Thank you, Andi!
+- Skye - Suggested adding Species and Occupation to the [NPC Generator](#npc-generator).
+  > Thank you, Skye!
+- Dominares - Suggested adding quirks to the [NPC Generator](#npc-generator). Their suggestions also gave me the idea 
+for allowing custom NPC skeletons.
+  > Thank you, Dominares! 
+___
