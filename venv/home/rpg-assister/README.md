@@ -10,7 +10,7 @@ A suite of programs to assist in tabletop rpgs. This includes:
 [***Encounter Generator***](#encounter-generator)  
 [***Combat Manager***](#combat-manager)
 
-## Character Creator <a id="character-creator"></a>
+## Character Creator
 This will walk players through creating characters in supported rpgs, and export the character to the [character
 management system](#character-manager).
 ##### Supported RPGS   
