@@ -129,17 +129,17 @@ Once I have this all working locally, I would like to implement some networking 
 - Potential v2 features 
   - Support distance games
     > - Game chat
-    > - audio/video calls
+    > - Audio/video calls
     > - Some form of play by post functionality (suggestions on how you'd like to see this implemented are welcome.) 
 - Potential v3 features
-  - the ability to post ads
+  - The ability to post ads
     > - Gms searching for players
     > - Players that are searching for games.
 ___
 ## Credits
 ***Author:*** 
 - Kylan Byrd  
-___
+
 ***Feature Suggestions:***
 - Amos - Suggested the [Location Generator](#location-generator).
   >Thank you, Amos!  
