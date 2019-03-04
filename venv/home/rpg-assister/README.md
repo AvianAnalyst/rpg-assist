@@ -10,6 +10,7 @@ A suite of programs to assist in tabletop rpgs. This includes:
 [***NPC Generator***](#npc-generator)  
 [***Encounter Generator***](#encounter-generator)  
 [***Combat Manager***](#combat-manager)
+[***Location Generator***](#location-generator)
 
 ## Character Creator
 This will walk players through creating characters in supported rpgs, and export the character to the [character
@@ -88,3 +89,12 @@ ___
 The combat manager will allow for the gm entering custom fight parameters, or importing them. Either from the 
 [Encounter Generator](#encounter-generator), manually selecting beasts/players/npcs, or an (undecided) import format.
 ___
+## Location Generator
+This will allow for quick generation of locations. This will potentially allow for different categories such as 
+'starting off places' or ??? I don't know. If you have ideas, please send them to me!
+- Location skeletons will look something like:
+  > Adjective  
+  Type  
+  Location in world
+ > Thank you, Amos for the suggestion!  
+ Everyone else, please send words to fill in each of those things, thank you!
