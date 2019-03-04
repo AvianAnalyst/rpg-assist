@@ -11,6 +11,7 @@ A suite of programs to assist in tabletop rpgs. This includes:
 [***Encounter Generator***](#encounter-generator)  
 [***Combat Manager***](#combat-manager)  
 [***Location Generator***](#location-generator)  
+[***Future Plans***](#future-plans)  
 [***Credits***](#credits)  
 
 ## Character Creator
@@ -98,6 +99,22 @@ This will allow for quick generation of locations. This will potentially allow f
   Type  
   Location in world
  > Please send words to fill in each of those things, thank you!
+___
+## Future Plans
+Once I have this all working locally, I would like to implement some networking features.  
+- v1 features 
+  - character sheet synchronization.
+    > - Player made changes reflect for the gm 
+    > - Gms can remotely manage character sheets
+- Potential v2 features 
+  - Support distance games
+    > - Game chat
+    > - audio/video calls
+    > - Some form of play by post functionality (suggestions on how you'd like to see this implemented are welcome.) 
+- Potential v3 features
+  - the ability to post ads
+    > - Gms searching for players
+    > - Players that are searching for games.
 ___
 ## Credits
 ***Author:*** 
