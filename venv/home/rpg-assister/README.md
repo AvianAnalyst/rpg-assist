@@ -9,9 +9,9 @@ A suite of programs to assist in tabletop rpgs. This includes:
 [***Item Generator***](#item-generator)  
 [***NPC Generator***](#npc-generator)  
 [***Encounter Generator***](#encounter-generator)  
-[***Combat Manager***](#combat-manager)
-[***Location Generator***](#location-generator)
-[***Credits***](#credits)
+[***Combat Manager***](#combat-manager)  
+[***Location Generator***](#location-generator)  
+[***Credits***](#credits)  
 
 ## Character Creator
 This will walk players through creating characters in supported rpgs, and export the character to the [character
