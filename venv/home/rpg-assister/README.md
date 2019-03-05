@@ -118,7 +118,10 @@ This will allow for quick generation of locations. This will potentially allow f
 ___
 ## Dungeon Generator
 I want this functionality, but I'm not sure how to present it yet. Potentially prints out a map for the GM with 
-trap/treasure locations, possibly NPCs too.
+trap/treasure locations, possibly NPCs too.  
+Planned features once networked include:
+  - hidden areas based on player group and dm vs player
+  - hidden items based on the same.
 ___
 ## Future Plans
 Once I have this all working locally, I would like to implement some networking features.  
