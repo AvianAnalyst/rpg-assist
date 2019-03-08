@@ -87,7 +87,7 @@ vary slightly depending on system and type.
   - wip
 ___
 ## NPC Generator
-This will generate NPC skeletons for the gm on domand when they need one. 
+This will generate NPC skeletons for the gm on demand when they need one. 
 The skeleton might be broken up into system specifics, I'm not sure as of yet. Planned skeletons currently look like:
 > Name  
   Species  
@@ -119,6 +119,7 @@ ___
 ## Dungeon Generator
 I want this functionality, but I'm not sure how to present it yet. Potentially prints out a map for the GM with 
 trap/treasure locations, possibly NPCs too.  
+Will also generate brief flavortext for various rooms generated.  
 Planned features once networked include:
   - hidden areas based on player group and dm vs player
   - hidden items based on the same.
@@ -157,4 +158,6 @@ ___
 - Dominares - Suggested adding quirks to the [NPC Generator](#npc-generator). Their suggestions also gave me the idea 
 for allowing custom NPC skeletons.
   > Thank you, Dominares! 
+- Jake - Suggested adding room descriptions to the [Dungeion Generator](#dungeon-generator)
+  > Thank you, Jake! 
 ___
